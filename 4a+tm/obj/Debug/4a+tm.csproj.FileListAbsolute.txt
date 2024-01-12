@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\4a+tm\4a+tm\bin\Debug\4a+tm.exe.config
+C:\Users\Admin\source\repos\4a+tm\4a+tm\bin\Debug\4a+tm.exe
+C:\Users\Admin\source\repos\4a+tm\4a+tm\bin\Debug\4a+tm.pdb
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\_4a_tm.Properties.Resources.resources
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.exe
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.pdb
+C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\_4a_tm.Form1.resources
