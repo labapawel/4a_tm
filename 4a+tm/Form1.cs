@@ -21,6 +21,7 @@ namespace _4a_tm
         public Form1()
         {
             InitializeComponent();
+
             try
             {
                 using (WebClient wc = new WebClient())
@@ -32,6 +33,7 @@ namespace _4a_tm
             {
                 MessageBox.Show(ex.Message);
             }
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
