@@ -9,3 +9,16 @@ C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.csproj.CoreCompileInputs
 C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.exe
 C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\4a+tm.pdb
 C:\Users\Admin\source\repos\4a+tm\4a+tm\obj\Debug\_4a_tm.Form1.resources
+C:\Users\DELL\source\repos\4a_tm\4a+tm\bin\Debug\4a+tm.exe.config
+C:\Users\DELL\source\repos\4a_tm\4a+tm\bin\Debug\4a+tm.exe
+C:\Users\DELL\source\repos\4a_tm\4a+tm\bin\Debug\4a+tm.pdb
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\_4a_tm.Form1.resources
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\_4a_tm.Properties.Resources.resources
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.exe
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.pdb
+C:\Users\DELL\source\repos\4a_tm\4a+tm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\4a_tm\4a+tm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\4a_tm\4a+tm\obj\Debug\4a+tm.csproj.CopyComplete
