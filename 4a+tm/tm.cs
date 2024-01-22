@@ -12,6 +12,8 @@ namespace _4a_tm
         public int xpos { get; set; }   
         public int ypos { get; set; }
         public string symbol { get; set; }
+
+        public int number { get; set; }
     }
     internal class TM
     {

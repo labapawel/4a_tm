@@ -43,7 +43,10 @@ namespace _4a_tm
             {
                 tmButton btt = new tmButton();
                 btt.Width = 80;
+                btt.AutoSize = true;
                 btt.Symbol = elem.symbol;
+                btt.La = elem.number;
+
                 tableLayoutPanel1.Controls.Add(btt, elem.xpos, elem.ypos);
 
             }
