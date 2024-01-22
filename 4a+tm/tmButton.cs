@@ -30,6 +30,7 @@ namespace _4a_tm
             this.Controls.Add(LA);
             LA.Left = 5;
             LA.Top = 5;
+            LA.BackColor = Color.Transparent;
             LA.Font = new Font("Arial", 7);
         }
 
